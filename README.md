@@ -6,6 +6,9 @@ Este proyecto compara el rendimiento de **tres formas diferentes** de calcular n
 2. ⚙️ Recursiva con programación dinámica (memorización)  
 3. 🔁 Iterativa
 
+
+Por cierto, si quieres indagar más, tienes más ejemplos y ejercicios interesantes aquí: https://campusvirtual.uclm.es/pluginfile.php/974097/mod_page/content/372/MP%20pruebas.rar (necesario estar loguead@ en el campus virtual)
+
 ---
 
 ## 🧠 ¿Qué representa este código?
@@ -63,7 +66,9 @@ Puedes agregar más números para probar otras entradas, por ejemplo:
 
 int[] valores = {10, 20, 30, 35, 40, 45, 50, 55, 60};
 
-⚠️ Nota: A partir de n = 45 notarás que el algoritmo recursivo simple se vuelve extremadamente lento. Esto demuestra lo costoso que puede ser un algoritmo con complejidad exponencial.
+⚠️ Nota: A partir de n = 45 notarás que el algoritmo recursivo simple se vuelve extremadamente lento.
+Esto demuestra lo costoso que puede ser un algoritmo con complejidad exponencial.
+
 🎯 ¿Qué deberías aprender con esto?
 
     Cómo medir el tiempo de ejecución de un algoritmo.
