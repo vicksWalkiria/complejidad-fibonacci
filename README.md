@@ -81,6 +81,9 @@ Este proyecto usa Java. Puedes compilarlo y ejecutarlo desde terminal:
 javac Fibonacci.java
 java Fibonacci
 
+O, directamente en una sola instrucción:
+java Fibonacci.java
+
 También puedes usar cualquier entorno que soporte Java (Eclipse, IntelliJ, NetBeans, VS Code, etc.).
 📚 Recursos adicionales
 
