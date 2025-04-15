@@ -98,11 +98,5 @@ También puedes usar cualquier entorno que soporte Java (Eclipse, IntelliJ, NetB
 
     Programación dinámica explicada
 
-📁 Estructura del proyecto
-
-/src
- └── com/mycompany/fibonacci/Fibonacci.java
-README.md
-
 ¡Explora, modifica y experimenta! 🧪✨
 
